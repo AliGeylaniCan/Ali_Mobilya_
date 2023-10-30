@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{5BE14133-8377-47A0-AC7F-B721A0F76882}|Default">
+  <MonoDevelop.Ide.ItemProperties.Alitas.Service FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Alitas.Data FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Alitas.Core FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Alitas.Entity FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Alitas" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Alitas PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
