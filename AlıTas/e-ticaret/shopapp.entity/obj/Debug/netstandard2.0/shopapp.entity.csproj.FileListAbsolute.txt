@@ -1,0 +1,38 @@
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csprojAssemblyReference.cache
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\Mertcan\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\PC\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\PC\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\PC\Desktop\shopapp\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\PC\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\PC\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\PC\Desktop\shopapp\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\PC\Desktop\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.deps.json
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\bin\Debug\netstandard2.0\shopapp.entity.pdb
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.AssemblyReference.cache
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.sourcelink.json
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.dll
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\netstandard2.0\shopapp.entity.pdb

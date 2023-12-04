@@ -1,0 +1,25 @@
+@model Product
+
+<div class="card mb-2">
+    <a href="~/img/@Model.ImageUrl" data-lightbox="images" data-title="Images">
+        <img class="card-img-top" src="~/img/@Model.ImageUrl" alt="">
+    </a>
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <small class="text-muted">
+            <i class="fas fa-lira-sign"></i>@Model.Price
+        </small>
+    </div>
+    <div class="card-footer text-center">
+        <a asp-controller="shop" asp-action="Details" asp-route-url="@Model.Url" class="btn btn-primary btn-sm">Detaylar</a>
+
+        @if(User.Identity.IsAuthenticated)
+        {
+            <form asp-controller="Cart" asp-action="AddToCart" method="POST" style="display: inline;">
+                <input type="hidden" name="productId" value="@Model.ProductId">
+                <input type="hidden" name="quantity" value="1">
+                <button type="submit" class="btn btn-primary btn-sm">Sepete Ekle</button>
+            </form>
+        }
+    </div>
+</div>   

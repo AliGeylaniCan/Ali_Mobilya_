@@ -1,0 +1,12 @@
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\bin\Debug\net8.0\shopapp.entity.deps.json
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\bin\Debug\net8.0\shopapp.entity.dll
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\bin\Debug\net8.0\shopapp.entity.pdb
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\shopapp.entity.sourcelink.json
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\shopapp.entity.dll
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\refint\shopapp.entity.dll
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\shopapp.entity.pdb
+C:\Users\Salih Akın\Source\Repos\E-Ticaret\e-ticaret\shopapp.entity\obj\Debug\net8.0\ref\shopapp.entity.dll

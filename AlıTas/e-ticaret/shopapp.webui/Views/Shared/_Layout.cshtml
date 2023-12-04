@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+    <link rel="stylesheet" href="/modules/bootstrap/dist/css/bootstrap.min.css" crossorigin="anonymous">
+    @RenderSection("Css",false)
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="~/css/mobile.css">
+    @* <link rel="stylesheet" href="~/css/lightbox.css"> *@
+    <title>Taş Mobilya</title>
+</head>
+<body id="body">
+
+    @await Html.PartialAsync("_navbar")          
+
+    <main class="my-3">
+        @* <div class="container"> *@
+        <div class="container-fluid">
+
+            @if(TempData["message"]!=null)
+            {
+                <partial name="_ResultMessage" model="@(TempData.Get<AlertMessage>("message"))"/>
+            }      
+             
+            @RenderBody()             
+        </div>
+    </main>
+
+    @await Html.PartialAsync("_footer")
+
+    @* <script src="/shopapp.webui/wwwroot/js/jquery.js"></script> *@
+    @* <script src="/shopapp.webui/wwwroot/js/lightbox.js"></script> *@
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    @RenderSection("Scripts",false)
+
+    <a href="#body" id="backtotop">
+        <i class='fas fa-chevron-circle-up'></i>
+    </a>
+
+</body>
+</html>

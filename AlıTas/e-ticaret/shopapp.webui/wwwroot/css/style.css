@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+
+/* footer */
+.footer a{
+    color: #cc0066;
+}
+
+.footer a:hover{
+    opacity: 0.7;
+}
+
+.social i{
+    background-color: #cc0066;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+/* backtotop */
+#backtotop{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+#backtotop i{
+    color: #cc0066;
+    font-size: 40px;
+    transition: color .6s;
+}
+
+#backtotop i:hover{
+    opacity: 0.7;
+}
+
+/* icons */
+
+.icons h3{
+    font-weight: 400;
+}
+
+.icons i{
+    background-color: #cc0066;
+    color: white;
+    border-radius: 50%;
+}
+
+.flex-items > div{
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+    flex-basis: 100% ;
+}

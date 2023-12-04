@@ -1,0 +1,19 @@
+@media(max-width:768px){
+
+    .flex-items{
+        flex-direction: column;
+    }
+
+    #backtotop i{
+        font-size: 30px;
+    }
+
+}
+
+@media(max-width:576px){
+
+    #backtotop i{
+        font-size: 20px;
+    }
+
+}
