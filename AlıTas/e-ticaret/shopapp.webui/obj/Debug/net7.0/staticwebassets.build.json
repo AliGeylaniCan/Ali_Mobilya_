@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wckfVzq1Sj4RPTllibH35yLh2T49KcoSS6WxXKV3HtY=",
+  "Hash": "YJ3SIrZiy6OJ+IL77K+WlvyMAWWuJTX8ZLc6Rxz6QUk=",
   "Source": "shopapp.webui",
   "BasePath": "_content/shopapp.webui",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "shopapp.webui\\wwwroot",
       "Source": "shopapp.webui",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\css\\lightbox.css",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\css\\lightbox.css",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "css/lightbox.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\lightbox.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\css\\mobile.css",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\css\\mobile.css",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "css/mobile.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\mobile.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\css\\style.css",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\images\\close.png",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\images\\close.png",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "images/close.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\close.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\images\\loading.gif",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\images\\loading.gif",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "images/loading.gif",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\images\\next.png",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\images\\next.png",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "images/next.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\next.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\images\\prev.png",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\images\\prev.png",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "images/prev.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\antre1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\antre1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/antre1.jpg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\antre1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/calisma1.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calisma1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma2.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma2.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/calisma2.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calisma2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma3.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma3.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/calisma3.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calisma3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma4.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma4.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/calisma4.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calisma4.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma5.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma5.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/calisma5.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calisma5.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma6.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma6.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/calisma6.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calisma6.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma7.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\calisma7.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/calisma7.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\calisma7.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\cocuk1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\cocuk1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/cocuk1.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cocuk1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\cocuk2.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\cocuk2.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/cocuk2.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cocuk2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\mutfak1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\mutfak1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/mutfak1.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mutfak1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\mutfak2.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\mutfak2.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/mutfak2.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mutfak2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\oturma1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\oturma1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/oturma1.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\oturma1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\tv1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\tv1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/tv1.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\tv1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yatak1.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yatak1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak2.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak2.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yatak2.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yatak2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak3.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak3.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yatak3.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yatak3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak4.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak4.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yatak4.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yatak4.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak5.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak5.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yatak5.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yatak5.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak6.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak6.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yatak6.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yatak6.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak7.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yatak7.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yatak7.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yatak7.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yemek1.jpg",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\img\\yemek1.jpg",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "img/yemek1.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\yemek1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\js\\jquery.js",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\js\\jquery.js",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "js/jquery.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\js\\lightbox.js",
+      "Identity": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\js\\lightbox.js",
       "SourceId": "shopapp.webui",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.webui\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.webui\\wwwroot\\",
       "BasePath": "_content/shopapp.webui",
       "RelativePath": "js/lightbox.js",
       "AssetKind": "All",

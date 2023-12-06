@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lmybDjrNcza04Cqhm+QLNGZBcej/dQddFphuXMMJvRx4AOJBED9imQ3CploVk7+eEY9KIx4BvlihwJRmiZnKAQ==",
+  "dgSpecHash": "v26UKiMqzBx25R+sjGb60CnefHawmKxEDey7O8UzerWhZCvPmWiBGOq19BB8D3FaFaCH0R71xLKsv9bh3qWGJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.business\\shopapp.business.csproj",
+  "projectFilePath": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.business\\shopapp.business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",

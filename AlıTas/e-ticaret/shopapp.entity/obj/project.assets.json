@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.entity\\shopapp.entity.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.entity\\shopapp.entity.csproj",
       "projectName": "shopapp.entity",
-      "projectPath": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.entity\\shopapp.entity.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.entity\\shopapp.entity.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\aliicin-main\\e-ticaret\\shopapp.entity\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Ali_Mobilya_\\AlıTas\\e-ticaret\\shopapp.entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

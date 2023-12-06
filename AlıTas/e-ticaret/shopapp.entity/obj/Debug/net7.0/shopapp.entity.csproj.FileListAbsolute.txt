@@ -10,3 +10,15 @@ C:\Users\user\Desktop\aliicin-main\e-ticaret\shopapp.entity\obj\Debug\net7.0\sho
 C:\Users\user\Desktop\aliicin-main\e-ticaret\shopapp.entity\obj\Debug\net7.0\refint\shopapp.entity.dll
 C:\Users\user\Desktop\aliicin-main\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.pdb
 C:\Users\user\Desktop\aliicin-main\e-ticaret\shopapp.entity\obj\Debug\net7.0\ref\shopapp.entity.dll
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\bin\Debug\net7.0\shopapp.entity.deps.json
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\bin\Debug\net7.0\shopapp.entity.dll
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\bin\Debug\net7.0\shopapp.entity.pdb
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.dll
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\refint\shopapp.entity.dll
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\shopapp.entity.pdb
+C:\Users\user\Documents\GitHub\Ali_Mobilya_\AlıTas\e-ticaret\shopapp.entity\obj\Debug\net7.0\ref\shopapp.entity.dll
